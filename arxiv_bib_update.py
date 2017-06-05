@@ -7,7 +7,7 @@ import os
 import warnings
 import re
 
-__version__ = "0.1.2.dev0"
+__version__ = "0.1.2"
 
 def make_arxiv_patterns():
     """
